@@ -1,0 +1,63 @@
+PartNumber,Description,EngineModel,AssemblyCode,SubAssembly,Material,SeriesQty,Unit
+# ===== FAN =====
+FAN-BLD-3,Fan Blade,CFM56-3,FAN,Fan Rotor,Titanium Alloy,36,per part
+FAN-DISK-3,Fan Disk,CFM56-3,FAN,Fan Rotor,Steel,1,per item
+FAN-SPCR-3,Fan Spacer,CFM56-3,FAN,Fan Rotor,Steel,1,per item
+FAN-CASE-3,Fan Case,CFM56-3,FAN,Fan Case,Aluminum Alloy,1,per item
+FAN-BLD-5B,Fan Blade,CFM56-5B,FAN,Fan Rotor,Titanium Alloy,36,per part
+FAN-DISK-5B,Fan Disk,CFM56-5B,FAN,Fan Rotor,Steel,1,per item
+FAN-SPCR-5B,Fan Spacer,CFM56-5B,FAN,Fan Rotor,Steel,1,per item
+FAN-CASE-5B,Fan Case,CFM56-5B,FAN,Fan Case,Aluminum Alloy,1,per item
+FAN-BLD-7B,Fan Blade,CFM56-7B,FAN,Fan Rotor,Titanium Alloy,36,per part
+FAN-DISK-7B,Fan Disk,CFM56-7B,FAN,Fan Rotor,Steel,1,per item
+FAN-SPCR-7B,Fan Spacer,CFM56-7B,FAN,Fan Rotor,Steel,1,per item
+FAN-CASE-7B,Fan Case,CFM56-7B,FAN,Fan Case,Aluminum Alloy,1,per item
+
+# ===== HPC =====
+HPC-STG1-BLD-3,HPC Stage 1 Blade,CFM56-3,HPC,HPC Rotor,Titanium Alloy,60,per part
+HPC-STG1-VN-3,HPC Stage 1 Vane,CFM56-3,HPC,HPC Stator,Stainless Steel,40,per part
+HPC-CAS-3,HPC Case,CFM56-3,HPC,HPC Case,Nickel Alloy,1,per item
+HPC-STG1-BLD-5B,HPC Stage 1 Blade,CFM56-5B,HPC,HPC Rotor,Titanium Alloy,60,per part
+HPC-STG1-VN-5B,HPC Stage 1 Vane,CFM56-5B,HPC,HPC Stator,Stainless Steel,40,per part
+HPC-CAS-5B,HPC Case,CFM56-5B,HPC,HPC Case,Nickel Alloy,1,per item
+HPC-STG1-BLD-7B,HPC Stage 1 Blade,CFM56-7B,HPC,HPC Rotor,Titanium Alloy,60,per part
+HPC-STG1-VN-7B,HPC Stage 1 Vane,CFM56-7B,HPC,HPC Stator,Stainless Steel,40,per part
+HPC-CAS-7B,HPC Case,CFM56-7B,HPC,HPC Case,Nickel Alloy,1,per item
+
+# ===== HPT =====
+HPTB-1-3,Stage 1 HPT Blade,CFM56-3,HPT,HPT Stage 1,Inconel 718,72,per part
+HPTV-1-3,Stage 1 HPT Vane,CFM56-3,HPT,HPT Stage 1,IN-738,36,per part
+HPT-DISK-3,HPT Disk,CFM56-3,HPT,HPT,Maraging Steel,1,per item
+HPTB-1-5B,Stage 1 HPT Blade,CFM56-5B,HPT,HPT Stage 1,Inconel 718,80,per part
+HPTV-1-5B,Stage 1 HPT Vane,CFM56-5B,HPT,HPT Stage 1,IN-738,36,per part
+HPT-DISK-5B,HPT Disk,CFM56-5B,HPT,HPT,Maraging Steel,1,per item
+HPTB-1-7B,Stage 1 HPT Blade,CFM56-7B,HPT,HPT Stage 1,Inconel 718,80,per part
+HPTV-1-7B,Stage 1 HPT Vane,CFM56-7B,HPT,HPT Stage 1,IN-738,36,per part
+HPT-DISK-7B,HPT Disk,CFM56-7B,HPT,HPT,Maraging Steel,1,per item
+
+# ===== LPT =====
+LPTB-1-3,Stage 1 LPT Blade,CFM56-3,LPT,LPT Stage 1,Inconel 718,80,per part
+LPTV-1-3,Stage 1 LPT Vane,CFM56-3,LPT,LPT Stage 1,IN-738,40,per part
+LPT-DISK-3,LPT Disk,CFM56-3,LPT,LPT,Maraging Steel,1,per item
+LPTB-1-5B,Stage 1 LPT Blade,CFM56-5B,LPT,LPT Stage 1,Inconel 718,80,per part
+LPTV-1-5B,Stage 1 LPT Vane,CFM56-5B,LPT,LPT Stage 1,IN-738,40,per part
+LPT-DISK-5B,LPT Disk,CFM56-5B,LPT,LPT,Maraging Steel,1,per item
+LPTB-1-7B,Stage 1 LPT Blade,CFM56-7B,LPT,LPT Stage 1,Inconel 718,80,per part
+LPTV-1-7B,Stage 1 LPT Vane,CFM56-7B,LPT,LPT Stage 1,IN-738,40,per part
+LPT-DISK-7B,LPT Disk,CFM56-7B,LPT,LPT,Maraging Steel,1,per item
+
+# ===== COMBUSTOR =====
+COMB-LIN-3,Combustor Liner,CFM56-3,COMB,Combustor Liner,Hastelloy X,1,per item
+COMB-DOME-3,Combustor Dome,CFM56-3,COMB,Combustor Dome,Hastelloy X,1,per item
+COMB-LIN-5B,Combustor Liner,CFM56-5B,COMB,Combustor Liner,Hastelloy X,1,per item
+COMB-DOME-5B,Combustor Dome,CFM56-5B,COMB,Combustor Dome,Hastelloy X,1,per item
+COMB-LIN-7B,Combustor Liner,CFM56-7B,COMB,Combustor Liner,Hastelloy X,1,per item
+COMB-DOME-7B,Combustor Dome,CFM56-7B,COMB,Combustor Dome,Hastelloy X,1,per item
+
+# ===== ACCESSORIES =====
+BRG-HSG-3,Bearing Housing,CFM56-3,ACC,Bearing Module,Steel,1,per item
+OIL-NZL-3,Oil Nozzle,CFM56-3,ACC,Oil System,Stainless Steel,4,per part
+BRG-HSG-5B,Bearing Housing,CFM56-5B,ACC,Bearing Module,Steel,1,per item
+OIL-NZL-5B,Oil Nozzle,CFM56-5B,ACC,Oil System,Stainless Steel,4,per part
+BRG-HSG-7B,Bearing Housing,CFM56-7B,ACC,Bearing Module,Steel,1,per item
+OIL-NZL-7B,Oil Nozzle,CFM56-7B,ACC,Oil System,Stainless Steel,4,per part

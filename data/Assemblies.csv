@@ -1,0 +1,21 @@
+AssemblyCode,AssemblyName,EngineModel,Description
+FAN,Fan,CFM56-3,"Includes fan rotor, fan blades, fan disk, fan case, spacers"
+HPC,High Pressure Compressor,CFM56-3,"Stages 1–9 compressor blades, vanes, cases"
+HPT,High Pressure Turbine,CFM56-3,"Stage 1–2 turbine blades, vanes, disks, seals"
+LPT,Low Pressure Turbine,CFM56-3,"Stage 1–4 turbine blades, vanes, disks"
+COMB,Combustor,CFM56-3,"Combustor liner, dome, fuel nozzles"
+ACC,Accessories,CFM56-3,"Bearing housings, oil system, gearbox, pumps"
+
+FAN,Fan,CFM56-5B,"Includes fan rotor, fan blades, fan disk, fan case, spacers"
+HPC,High Pressure Compressor,CFM56-5B,"Stages 1–9 compressor blades, vanes, cases"
+HPT,High Pressure Turbine,CFM56-5B,"Stage 1–2 turbine blades, vanes, disks, seals"
+LPT,Low Pressure Turbine,CFM56-5B,"Stage 1–4 turbine blades, vanes, disks"
+COMB,Combustor,CFM56-5B,"Combustor liner, dome, fuel nozzles"
+ACC,Accessories,CFM56-5B,"Bearing housings, oil system, gearbox, pumps"
+
+FAN,Fan,CFM56-7B,"Includes fan rotor, fan blades, fan disk, fan case, spacers"
+HPC,High Pressure Compressor,CFM56-7B,"Stages 1–9 compressor blades, vanes, cases"
+HPT,High Pressure Turbine,CFM56-7B,"Stage 1–2 turbine blades, vanes, disks, seals"
+LPT,Low Pressure Turbine,CFM56-7B,"Stage 1–4 turbine blades, vanes, disks"
+COMB,Combustor,CFM56-7B,"Combustor liner, dome, fuel nozzles"
+ACC,Accessories,CFM56-7B,"Bearing housings, oil system, gearbox, pumps"

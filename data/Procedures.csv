@@ -1,0 +1,17 @@
+ProcedureCode,ProcedureName,Category,BaseCostUSD,UnitOfMeasure
+CLN-GEN,Cleaning - General,Cleaning,40,per part
+CLN-MED,Cleaning - Medium,Cleaning,60,per part
+CLN-HVY,Cleaning - Heavy,Cleaning,90,per part
+INS-VT,Inspection - Visual (VT),Inspection,15,per part
+INS-FPI,Inspection - Fluorescent Penetrant (FPI),Inspection,35,per part
+INS-UT,Inspection - Ultrasonic (UT),Inspection,50,per part
+INS-MT,Inspection - Magnetic Particle (MT),Inspection,45,per part
+INS-EC,Inspection - Eddy Current (EC),Inspection,55,per part
+RPR-WLD,Repair - Welding,Repair,140,per part
+RPR-MAC,Repair - Machining,Repair,110,per part
+RPR-CLD,Repair - Cladding,Repair,180,per part
+RPR-COT,Repair - Coating,Repair,220,per part
+RPR-BLD,Repair - Blending,Repair,85,per part
+RPR-DRL,Repair - Drilling,Repair,70,per part
+RPR-TIP,Repair - Blade Tip Restoration,Repair,160,per part
+RPR-PLT,Repair - Platform Repair,Repair,150,per part
